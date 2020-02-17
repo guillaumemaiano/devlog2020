@@ -16,6 +16,6 @@ tags: [ "Digital Ocean", "NGinx", "CertBot", "Hugo", "aether"]
 
 A little while ago, I realized my certbot installations running on my [Digital Ocean](https://www.digitalocean.com) servers needed some updating. After some digging, I decided to go nuclear on my various servers and rebuild everything from a clean slate, using Nginx instead of Apache, since my Web servers all run static sites. It quickly became clear that, once my servers passed the A+ grade of [SSL Labs](https://ssllabs.com) testing, I needed to refresh my knowledge of [Hugo](https://www.gohugo.io), which had moved on quite a lot. This, in turn, led to the realization that my themes of choice had mostly been retired.
 
-After some digging, I decided to move the devblog over to [Aether](https://themes.gohugo.io/aether/), a nice and crisp theme, learn how to build my [own theme](https://www.zeolearn.com/magazine/develop-a-theme-for-hugo), and learn the ropes of the powerful [Syna](https://syna.okkur.org) theme.
+After some digging, I decided to move the devblog over to [Aether](https://themes.gohugo.io/aether/), a nice and crisp theme by [Joe Hutchinson](https://www.joehutch.com), learn how to build my [own theme](https://www.zeolearn.com/magazine/develop-a-theme-for-hugo), and learn the ropes of the powerful [Syna](https://syna.okkur.org) theme.
 
 I'm version-controlling my work, as usual, on [Github](https://github.com/guillaumemaiano/devlog2020).
