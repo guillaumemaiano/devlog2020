@@ -1,0 +1,19 @@
+baseURL = "http://devlog.guillaume.maiano.fr"
+languageCode = "en-us"
+title = "GeM - Code, hack, build"
+theme = "aether"
+publishDir = "../site-published"
+#params = { author = { name = "GeM" },
+#    inc = {
+#        subtitle =  "There is always something new to learn" ,
+#        cover_image =  "arduino-GabrielTemp1.JPG",
+#        logo =         "logo.png",
+#        company = "Guillaume Maiano",
+#        url = "http://guillaume.maiano.fr",
+#        github = "guillaumemaiano",
+#            twitter =      "gmaiano",
+#            sharing = {
+#                twitter =    true,
+#                facebook =   true,
+#                gplus =      true,
+#                hn =         true } } }
